@@ -1,10 +1,6 @@
 hello updating this line..
 this file contains db related files
 
+  so i am adding new set of lines
 
-hi everyone we are in development branch
-
-added this line in master branch
-
-we are updating in dev branch
 
